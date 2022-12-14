@@ -57,7 +57,3 @@ $ npm install express
 ## To check if it express is hosting a website
  - Go to Firefox
  - Enter "localhost:3000" in search bar
-
-
-
-![image](C:\Users\garyg\Desktop\Fall 2022\Operating Systems 1\Screenshot (176).png)
